@@ -21,5 +21,5 @@ The CROM Validator is a plugin for [FRaMED 2.0](https://github.com/Eden-06/FRaME
 
 ### How to use the validation?
 1. Right click on a CROM model (`*.crom`) in the file explorer in Eclipse
-2. Choose "Validate Variant"
+2. Choose *"Validate Variant"*
 3. The result of the evaluation will be displayed in a error message
