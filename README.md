@@ -3,7 +3,7 @@
 The CROM Validator is a plugin for [FRaMED 2.0](https://github.com/Eden-06/FRaMED-2.0)), for detecting well-formedness errors in CROM models.
 
 ### Requirements
-* Tested with Eclipse Photon
+* Tested with Eclipse Photon Modeling Tools
 * [FRaMED 2.0](https://github.com/Eden-06/FRaMED-2.0)
 * or alternatively only [CROM](https://github.com/Eden-06/CROM)
 
